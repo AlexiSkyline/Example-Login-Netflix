@@ -1,0 +1,16 @@
+{
+  "name": "netflix_inicio",
+  "version": "1.0.0",
+  "description": "Proyecto Netflix Login con Flexbox, Gulp y SASS",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexis Evaristo López Gómez",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-sass": "^4.1.0"
+  }
+}
